@@ -1,4 +1,13 @@
-### Hi there 👋
+### 
+**Areas of Interest**
+------------------------------------------------------------------------
+Creative Coding - Creating generative art,visualizations,putting together an interactive art installation.
+
+Game development 
+
+Interested in image processing, computer vision, deep learning.
+
+
 
 <!--
 **Nagashree-RH/Nagashree-RH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
