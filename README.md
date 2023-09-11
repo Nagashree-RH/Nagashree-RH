@@ -5,7 +5,13 @@ Creative Coding - Creating generative art,visualizations,putting together an int
 
 Game development 
 
-Interested in image processing, computer vision, deep learning.
+Interested in Image Processing, Computer Vision, Deep Learning,Machine Learning,Artificial Intelligence .
+
+**Profile Details**
+Email - nagashree.rh@outlook.com
+LinkedIn - https://www.linkedin.com/in/nagashree-rh/
+Github -  https://github.com/Nagashree-RH
+Youtube - https://youtube.com/@pixmerize05?si=fxB22hM33C2agdLR
 
 
 
