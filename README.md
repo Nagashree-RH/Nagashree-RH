@@ -15,8 +15,9 @@ LinkedIn - https://www.linkedin.com/in/nagashree-rh/
 
 Github -  https://github.com/Nagashree-RH
 
-Youtube - https://youtube.com/@pixmerize05?si=fxB22hM33C2agdLR
+Youtube - https://youtube.com/@pixmerize05
 
+Reddit- https://www.reddit.com/user/Pixmerize
 
 
 <!--
